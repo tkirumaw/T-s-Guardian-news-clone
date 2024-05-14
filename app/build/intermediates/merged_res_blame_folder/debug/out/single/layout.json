@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "org.asghari.guardiannews.app-mergeDebugResources-88:/layout/home_page_fragment.xml",
+        "source": "org.asghari.guardiannews.app-main-91:/layout/home_page_fragment.xml"
+    },
+    {
+        "merged": "org.asghari.guardiannews.app-mergeDebugResources-88:/layout/news_list_item.xml",
+        "source": "org.asghari.guardiannews.app-main-91:/layout/news_list_item.xml"
+    },
+    {
+        "merged": "org.asghari.guardiannews.app-mergeDebugResources-88:/layout/news_detailes_page_fragment.xml",
+        "source": "org.asghari.guardiannews.app-main-91:/layout/news_detailes_page_fragment.xml"
+    }
+]
