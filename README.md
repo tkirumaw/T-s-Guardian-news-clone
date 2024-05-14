@@ -1,5 +1,5 @@
-# GuardianNews
-A short-time project that uses the most recent technologies, libraries and best practices (Compose UI as main feature).
+# T's GuardianNews
+My final eMobilis Project. My reimagination of popular news apps 
 <p align="left">
 <img src="https://user-images.githubusercontent.com/42576835/232209739-52e73e96-1a2a-45b7-96b0-c0d3e0ec0d29.jpg" width="200">
 <img src="https://user-images.githubusercontent.com/42576835/232209179-6912d64f-440c-4945-8472-abe27dc21bd7.jpg" width="200">
@@ -10,15 +10,9 @@ A short-time project that uses the most recent technologies, libraries and best 
 <img src="https://user-images.githubusercontent.com/42576835/232209454-a7e1753a-7bda-4333-aa60-67d46632beea.jpg" width="200">
 </p>
 
-In this project user can Read and explore in  Guardian News by GuardianApi.
+This Project employs the use of GuardianApi
 
-Technologies and libraries:
-- Single Activity
-- Compose Navigation Component
-- Dependency Injection with Hilt
-- Jetpack Compose Animations
-- Compose Lottie
-- MVVM + Clean Architecture
+
 - Kotlin Coroutines
 - Retrofit
 - Preferences DataStore
